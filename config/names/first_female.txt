@@ -26,7 +26,6 @@ Alina
 Alisa
 Alison
 Alissa
-Alysia
 Alivia
 Aliyah
 Allegra
@@ -38,6 +37,7 @@ Allyson
 Alma
 Alondra
 Alysha
+Alysia
 Alyson
 Alyssa
 Amanda
@@ -151,8 +151,8 @@ Cecilia
 Cecily
 Celeste
 Charlotte
-Chelsea
 Charrette
+Chelsea
 Cheri
 Cherry
 Cheyanne
@@ -168,8 +168,8 @@ Clara
 Claribel
 Claudia
 Clover
-Cora
 Coleen
+Cora
 Corrine
 Courtney
 Crystal
@@ -208,6 +208,7 @@ Easter
 Ebba
 Eden
 Effie
+Eileen
 Elaina
 Eleanor
 Elena
@@ -296,7 +297,6 @@ Holly
 Hope
 Hortensia
 Iantha
-Eileen
 Imani
 Innocent
 Irene
@@ -521,6 +521,7 @@ Mariabella
 Mariah
 Mariana
 Marilene
+Marilyn
 Marion
 Marisol
 Marissa
@@ -545,7 +546,6 @@ Melany
 Melissa
 Melody
 Meredith
-Marilyn
 Meryl
 Mia
 Michaela
@@ -632,7 +632,6 @@ Rebekah
 Reene
 Reese
 Renie
-Roxana
 Rhetta
 Rihanna
 Riley
@@ -641,6 +640,7 @@ Rosa
 Rose
 Rosemary
 Rowan
+Roxana
 Ruby
 Ruth
 Rylee
@@ -667,17 +667,17 @@ Seneca
 Serena
 Serenity
 Shana
-Shanika
 Shaneah
+Shanika
 Shannon
 Shantae
-Sherlyn
 Sharla
 Shayla
 Shelby
 Sheri
 Sherie
 Sherill
+Sherlyn
 Sherri
 Sienna
 Sierra
@@ -699,7 +699,6 @@ Susanna
 Susannah
 Suzan
 Suzy
-Sydney
 Sydney
 Talia
 Tamika

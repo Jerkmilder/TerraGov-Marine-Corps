@@ -1,3 +1,4 @@
+A.J.
 Aaron
 Abel
 Abraham
@@ -7,7 +8,6 @@ Aden
 Adrian
 Aidan
 Aiden
-A.J.
 Ajax
 Alan
 Albert
@@ -16,7 +16,6 @@ Alden
 Alec
 Alejandro
 Alex
-Alex
 Alexander
 Alexis
 Alfred
@@ -24,7 +23,6 @@ Alfredo
 Alger
 Ali
 Alijah
-Allen
 Allen
 Alvin
 Amari
@@ -64,7 +62,6 @@ Bennett
 Bert
 Bill
 Blake
-Blake
 Bo
 Braden
 Bradley
@@ -80,11 +77,10 @@ Brett
 Brian
 Brick
 Brock
-Brooklyn
 Brodie
 Brody
 Bronte
-Bruce
+Brooklyn
 Bruce
 Bryan
 Bryant
@@ -147,6 +143,7 @@ Cooper
 Corbin
 Corey
 Cory
+Cowper
 Cristian
 Cristopher
 Crush
@@ -165,7 +162,6 @@ Dante
 Darcey
 Darell
 Darin
-Darius
 Darren
 David
 Davion
@@ -181,7 +177,6 @@ Dennis
 Derek
 Derrick
 Desmond
-Devin
 Devin
 Devon
 Diego
@@ -286,10 +281,10 @@ Hayden
 Hector
 Henderson
 Henry
+Hoace
 Hoagie
 Holden
 Homer
-Hoace
 Horatio
 Hudson
 Huffie
@@ -311,13 +306,11 @@ Jace
 Jack
 Jackson
 Jacob
-Jacob
 Jacoby
 Jaden
 Jadon
 Jaiden
 Jaime
-Jake
 Jake
 Jakob
 Jalen
@@ -422,6 +415,7 @@ Lanny
 Larry
 Launce
 Lawrence
+Leif
 Leland
 Lennox
 Lenny
@@ -432,7 +426,6 @@ Leonel
 Leroy
 Levi
 Liam
-Leif
 Lincoln
 Linden
 Linton
@@ -454,8 +447,8 @@ Malachi
 Malcolm
 Malik
 Manfred
-Manny
 Manley
+Manny
 Manuel
 Marc
 Marco
@@ -597,7 +590,6 @@ Sebastian
 Sergio
 Seth
 Seymour
-Shane
 Shane
 Shaun
 Shawn
